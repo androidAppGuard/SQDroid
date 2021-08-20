@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][480,800]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][480,800]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+        <node index="0" text="" resource-id="org.weilbach.splitbills.mock:id/action_bar_root" class="android.widget.LinearLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+              <node index="0" text="Welcome to SplitBills" resource-id="" class="android.widget.TextView" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[100,62][380,103]" />
+              <node index="1" text="Before you can start, you need to add yourself as a user. Your name and e-mail address will only be saved on your device." resource-id="" class="android.widget.TextView" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[24,151][456,228]" />
+              <node index="2" text="Okay" resource-id="org.weilbach.splitbills.mock:id/act_firststart_button_start" class="android.widget.Button" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,252][306,324]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

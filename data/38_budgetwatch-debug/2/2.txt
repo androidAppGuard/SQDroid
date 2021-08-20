@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][480,800]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][480,800]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+        <node index="0" text="" resource-id="protect.budgetwatch:id/action_bar_root" class="android.widget.LinearLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+            <node index="0" text="" resource-id="" class="android.view.View" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,800]">
+              <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,122]">
+                <node index="0" text="" resource-id="protect.budgetwatch:id/toolbar" class="android.view.View" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][480,122]">
+                  <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="protect.budgetwatch" content-desc="转到上一层级" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,38][84,122]" />
+                  <node index="1" text="设置" resource-id="" class="android.widget.TextView" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[108,59][168,100]" />
+                </node>
+              </node>
+              <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,122][480,800]">
+                <node index="0" text="" resource-id="protect.budgetwatch:id/fragment_container" class="android.widget.FrameLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,122][480,800]">
+                  <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,122][480,800]">
+                    <node index="0" text="" resource-id="android:id/list" class="android.widget.ListView" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,122][480,800]">
+                      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[24,122][456,218]">
+                        <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[36,128][441,212]">
+                          <node index="0" text="收据照片质量" resource-id="android:id/title" class="android.widget.TextView" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[36,137][198,174]" />
+                          <node index="1" text="选择拍照留存收据时要使用的 JPEG 质量" resource-id="android:id/summary" class="android.widget.TextView" package="protect.budgetwatch" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[36,174][412,203]" />
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

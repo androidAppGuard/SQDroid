@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[162,98][480,486]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,110][468,474]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,110][468,182]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,127][444,164]">
+          <node index="0" text="Filter" resource-id="android:id/title" class="android.widget.TextView" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,127][444,164]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,183][468,255]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,200][444,237]">
+          <node index="0" text="Clear" resource-id="android:id/title" class="android.widget.TextView" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,200][444,237]" />
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,256][468,328]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,273][444,310]">
+          <node index="0" text="Share" resource-id="android:id/title" class="android.widget.TextView" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,273][444,310]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,329][468,401]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,346][444,383]">
+          <node index="0" text="Save" resource-id="android:id/title" class="android.widget.TextView" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,346][444,383]" />
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,402][468,474]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,419][444,456]">
+          <node index="0" text="Preferences" resource-id="android:id/title" class="android.widget.TextView" package="com.android.a47_alogcat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,419][444,456]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

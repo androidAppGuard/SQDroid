@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[156,38][474,278]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,50][462,266]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,50][462,122]">
+        <node index="0" text="" resource-id="snotepad.aario.info.snotepad:id/content" class="android.widget.LinearLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,50][462,122]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,69][438,102]">
+            <node index="0" text="Refresh" resource-id="snotepad.aario.info.snotepad:id/title" class="android.widget.TextView" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,69][438,102]" />
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,122][462,194]">
+        <node index="0" text="" resource-id="snotepad.aario.info.snotepad:id/content" class="android.widget.LinearLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,122][462,194]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,141][438,174]">
+            <node index="0" text="Settings" resource-id="snotepad.aario.info.snotepad:id/title" class="android.widget.TextView" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,141][438,174]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,194][462,266]">
+        <node index="0" text="" resource-id="snotepad.aario.info.snotepad:id/content" class="android.widget.LinearLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,194][462,266]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,213][438,246]">
+            <node index="0" text="About" resource-id="snotepad.aario.info.snotepad:id/title" class="android.widget.TextView" package="snotepad.aario.info.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,213][438,246]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

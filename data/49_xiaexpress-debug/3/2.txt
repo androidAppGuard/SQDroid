@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="fr.ac_versailles.dane.xiaexpress" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[195,64][480,222]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="fr.ac_versailles.dane.xiaexpress" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[207,76][468,210]">
+      <node index="0" text="New picture" resource-id="" class="android.widget.TextView" package="fr.ac_versailles.dane.xiaexpress" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[207,76][468,143]" />
+      <node index="1" text="Import XML" resource-id="" class="android.widget.TextView" package="fr.ac_versailles.dane.xiaexpress" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[207,143][468,210]" />
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.a43_manille" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[12,38][283,278]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.android.a43_manille" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[24,50][271,266]">
+      <node index="0" text="Manille free" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="com.android.a43_manille" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[24,50][271,122]" />
+      <node index="1" text="Manille 101 points" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="com.android.a43_manille" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[24,122][271,194]" />
+      <node index="2" text="Manille 12 hands" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="com.android.a43_manille" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[24,194][271,266]" />
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[156,45][474,141]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,57][462,129]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,57][462,129]">
+        <node index="0" text="" resource-id="org.weilbach.splitbills.mock:id/content" class="android.widget.LinearLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[168,57][462,129]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,76][438,109]">
+            <node index="0" text="Settings" resource-id="org.weilbach.splitbills.mock:id/title" class="android.widget.TextView" package="org.weilbach.splitbills.mock" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[192,76][438,109]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

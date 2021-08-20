@@ -1,0 +1,10 @@
+# 滑动
+adb shell input swipe 360 531 720 1061 300
+# 长按[实现双向滑动]
+adb shell input swipe 406 286 406 286 1000
+# 点击
+adb shell input tap 406 286
+# 删除一个字符
+adb shell input keyevent 67
+# 光标处追加字符串
+adb shell input text 'edit \ text'

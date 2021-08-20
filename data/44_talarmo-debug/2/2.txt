@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[162,550][480,719]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,562][468,707]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,562][468,634]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,579][444,616]">
+          <node index="0" text="Settings" resource-id="android:id/title" class="android.widget.TextView" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,579][444,616]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[174,635][468,707]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,652][444,689]">
+          <node index="0" text="Leave feedback" resource-id="android:id/title" class="android.widget.TextView" package="trikita.talalarmo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[198,652][444,689]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

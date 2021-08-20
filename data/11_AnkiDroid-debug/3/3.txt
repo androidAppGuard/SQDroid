@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[42,292][438,546]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[42,292][438,546]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[42,292][438,546]">
+        <node index="0" text="" resource-id="" class="android.view.View" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[42,292][438,546]">
+          <node index="0" text="" resource-id="com.ichi2.anki:id/md_titleFrame" class="android.widget.LinearLayout" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[42,292][438,387]">
+            <node index="0" text="是否检查数据库？" resource-id="com.ichi2.anki:id/md_title" class="android.widget.TextView" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[78,328][402,369]" />
+          </node>
+          <node index="1" text="" resource-id="com.ichi2.anki:id/md_contentScrollView" class="android.widget.ScrollView" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[42,387][438,450]">
+            <node index="0" text="这可能需要很长时间" resource-id="com.ichi2.anki:id/md_content" class="android.widget.TextView" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[42,399][438,438]" />
+          </node>
+          <node index="2" text="取消" resource-id="com.ichi2.anki:id/md_buttonDefaultNegative" class="android.widget.TextView" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[204,462][312,534]" />
+          <node index="3" text="确定" resource-id="com.ichi2.anki:id/md_buttonDefaultPositive" class="android.widget.TextView" package="com.ichi2.anki" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[312,462][420,534]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>
