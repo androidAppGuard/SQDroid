@@ -24,8 +24,8 @@ It is worth noting that the sequence number of the data folder storing the seman
 Before running SQDroid, please update the settings/GlobalConfiguration.py as follow:<br>
 ```python
     # Testing Android App settings
-    APK_DIR = r"/opt/apks/SQTesting"
-    SEMANTIC_PATH = r"/opt/code/STesting/data"
+    APK_DIR = r"/opt/apks/SQDroid"
+    SEMANTIC_PATH = r"/opt/code/SQDroid/data"
     DEVICE_ID = 'emulator-5554'
     SCREEN_WIDTH = 480
     SCREEN_HIGHT = 800
