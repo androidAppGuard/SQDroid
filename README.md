@@ -9,7 +9,7 @@ SQDroid is a semantic-driven approach for Android apps based Q-learning. It empl
 + uiautomator: pip install uiautomator2==2.16.3<br>
 + lxml: pip install lxml==4.6.3<br>
 
-The above version of the software has been tested in our experiment. We use Pyinstalller to bundle the Q-testing project into an executable file that can be run in Linux. You don't need to install the tool or any other python dependencies; just download all the project source code is enough. The application under test can be installed in a physical phone connected to a computer, or in an Android virtual machine, where API level 19 (4.4) has been tested.<br>
+The above version of the software has been tested in our experiment. Our code for the SQLDroid testing tool is all open source, we hope that relevant researchers in the field of automated GUI testing can be benefited. The application under test can be installed in a physical phone connected to a computer, or in an Android virtual machine, where API level 19 (4.4) has been tested. <br>
 
 # Usage
 ## Semantic state sequence data requirements
